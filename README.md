@@ -38,7 +38,5 @@ pip install -r requirements.txt
 http://127.0.0.1:5000/ query=="Hello World"
 ```
 ## Others
-In the lib directory:
-
->  - data: directory that contains the data files from Kaggle
->  - models: directory that contains the pickled model files
+- data: directory that contains the data files from Kaggle
+- models: directory that contains the pickled model files
